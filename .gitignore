@@ -1,3 +1,7 @@
 WebAutomationFramework.iml
 target/
 Generic.iml
+/.idea/vcs.xml
+!/.idea/workspace.xml
+Generic/src/main/java/Database/
+Generic/src/main/java/Reporting/
